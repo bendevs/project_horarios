@@ -6,14 +6,30 @@
 $ npm install
 ```
 
-## 2) Arrancar la aplicacion
+## 2) Database
 
-- Modo desarrollo
+- Eliminar (por si fuera necesario)
+
+```bash
+$ npm run dropdb
+```
+
+- Crear 
+
+```bash
+$ npm run createdb
+```
+
+- Crear los modelos (tablas) 
+
+```bash
+$ npm run modelos
+```
+
+## 3) Correr el backend (server)
+
+- modo desarrollo
 
 ```bash
 $ npm run dev
 ```
-
-## 3) Browser
-
-http://localhost:8080

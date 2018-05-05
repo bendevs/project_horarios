@@ -8,4 +8,4 @@ Backend
 - (10) Validación para evitar cruce de horarios por aula (un horario no puede ser ocupado por dos materias a la vez)
 - (5) Opción para poder registrar varios horarios de una materia al mismo tiempo
 
-
+![Diagrama BD](https://github.com/bendevs/project_horarios/blob/alxmcr/horarios-backend/__diagrama_bd.png "Diagrama BD")
